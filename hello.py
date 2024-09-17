@@ -1,1 +1,1 @@
-print(f'khe Khe what do u think of it? {input().strip().title()}')
+print(f'khe Khe what do u think of it? {input("Enter ur name? ").strip().title()}')
