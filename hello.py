@@ -1,1 +1,1 @@
-print("khe Khe")
+print(f'khe Khe what do u think of it? {input().strip().title()}')
